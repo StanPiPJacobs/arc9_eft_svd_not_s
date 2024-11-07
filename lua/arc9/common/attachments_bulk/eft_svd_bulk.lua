@@ -28,6 +28,13 @@ ATT.Attachments = {
         Ang = Angle(0, 0, 0),
         Icon_Offset = Vector(0, 0, 0),
     },
+    {
+        PrintName = "Muzzle",
+        Category = {"eft_svds_muzzle2"},
+        Pos = Vector(-1.3, 0, 0),
+        Ang = Angle(0, 0, 0),
+        Icon_Offset = Vector(0, 0, 0),
+    },
 }
 
 ARC9.LoadAttachment(ATT, "eft_muzzle_svd_std")
